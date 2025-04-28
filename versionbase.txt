@@ -1,2 +1,3 @@
 # Pcampo with value test
 hola mundo
+console.log("This is another text to print")
